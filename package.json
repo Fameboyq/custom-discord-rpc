@@ -19,7 +19,8 @@
     "control-panel",
     "tray-app",
     "fameboyq",
-    "antigravity-rpc"
+    "antigravity-rpc",
+    "antigravity-discordrpc"
   ],
   "author": "Fameboyq (https://github.com/Fameboyq)",
   "license": "MIT",

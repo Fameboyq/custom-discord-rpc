@@ -17,7 +17,7 @@
 ---
 
 ## 🔍 Tags & Topics (Keywords)
-`discord-rpc` `custom-discord-rpc` `animated-discord-rpc` `discord-rich-presence` `rich-presence` `discord-status` `multi-language` `tray-app` `discord-presence-customizer` `custom-status` `antigravity-rpc` `fameboyq`
+`antigravity-rpc` `antigravity-discordrpc` `discord-rpc` `custom-discord-rpc` `animated-discord-rpc` `discord-rich-presence` `rich-presence` `discord-status` `multi-language` `tray-app` `discord-presence-customizer` `custom-status` `fameboyq`
 
 ---
 
