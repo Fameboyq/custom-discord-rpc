@@ -1,0 +1,37 @@
+{
+  "name": "custom-discord-rpc",
+  "version": "1.0.0",
+  "description": "⚡ Ultimate Animated Discord Rich Presence (RPC) with Tray Control Panel, Multi-Language support (EN/RU), customizable rotating frames, and profile buttons.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "gui": "python tray_app.py"
+  },
+  "keywords": [
+    "discord-rpc",
+    "custom-discord-rpc",
+    "animated-discord-rpc",
+    "rich-presence",
+    "discord-presence",
+    "discord-rich-presence",
+    "custom-status",
+    "multi-language",
+    "control-panel",
+    "tray-app",
+    "fameboyq",
+    "antigravity-rpc"
+  ],
+  "author": "Fameboyq (https://github.com/Fameboyq)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fameboyq/custom-discord-rpc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fameboyq/custom-discord-rpc/issues"
+  },
+  "homepage": "https://github.com/Fameboyq/custom-discord-rpc#readme",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}

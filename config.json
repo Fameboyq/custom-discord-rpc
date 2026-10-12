@@ -1,0 +1,86 @@
+{
+  "client_id": "1440730997460172810",
+  "enabled": true,
+  "language": "en",
+  "interval_seconds": 6,
+  "buttons": [
+    {
+      "label": "Website",
+      "url": "https://fameboyq.fun"
+    },
+    {
+      "label": "Telegram",
+      "url": "https://t.me/fameboyq"
+    }
+  ],
+  "presets": {
+    "en": [
+      {
+        "details": "⚡ fameboyq | supreme dev",
+        "state": "📁 Coding Session · 🔥 3d streak",
+        "large_image": "antigravity_logo",
+        "large_text": "fameboyq.fun · Antigravity",
+        "small_image": "robot",
+        "small_text": "Verified Developer"
+      },
+      {
+        "details": "🧠 Reasoning & Coding · Gemini 3.8",
+        "state": "📊 Tokens: +499.7M today · 1.8B lifetime",
+        "large_image": "antigravity_logo",
+        "large_text": "Antigravity AI Engine",
+        "small_image": "robot",
+        "small_text": "Active Stream"
+      },
+      {
+        "details": "💎 fameboyq.fun",
+        "state": "🚀 Private architecture & tools",
+        "large_image": "antigravity_logo",
+        "large_text": "VIP Access",
+        "small_image": "robot",
+        "small_text": "Bio Link"
+      },
+      {
+        "details": "[██████████░░] 85% Thinking",
+        "state": "⚡ 144k t/s · Ultra Latency",
+        "large_image": "antigravity_logo",
+        "large_text": "Turbo Engine",
+        "small_image": "robot",
+        "small_text": "Realtime Execution"
+      }
+    ],
+    "ru": [
+      {
+        "details": "⚡ fameboyq | supreme dev",
+        "state": "📁 В процессе разработки · 🔥 3d стрик",
+        "large_image": "antigravity_logo",
+        "large_text": "fameboyq.fun · Antigravity",
+        "small_image": "robot",
+        "small_text": "Verified Разработчик"
+      },
+      {
+        "details": "🧠 Разработка и кодинг · Gemini 3.8",
+        "state": "📊 Токены: +499.7M сегодня · 1.8B всего",
+        "large_image": "antigravity_logo",
+        "large_text": "Antigravity AI Движок",
+        "small_image": "robot",
+        "small_text": "Активный поток"
+      },
+      {
+        "details": "💎 fameboyq.fun",
+        "state": "🚀 Приватный софт и тулзы",
+        "large_image": "antigravity_logo",
+        "large_text": "VIP Доступ",
+        "small_image": "robot",
+        "small_text": "Ссылка на био"
+      },
+      {
+        "details": "[██████████░░] 85% Анализ и кодинг",
+        "state": "⚡ 144k t/s · Ультра скорость",
+        "large_image": "antigravity_logo",
+        "large_text": "Турбо движок",
+        "small_image": "robot",
+        "small_text": "Выполнение команд"
+      }
+    ]
+  }
+}
