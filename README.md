@@ -9,8 +9,9 @@
 [![Node.js](https://img.shields.io/badge/Node.js-16%2B-green?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://python.org/)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-purple)](#)
+[![Donate](https://img.shields.io/badge/Donate-DonationAlerts-ea7600?logo=donationalerts&logoColor=white)](https://www.donationalerts.com/r/fameboyq)
 
-[English Documentation](#-english-guide) • [Русская документация](#-инструкция-на-русском)
+[English Documentation](#-english-guide) • [Русская документация](#-инструкция-на-русском) • [💖 Support](https://www.donationalerts.com/r/fameboyq)
 
 </div>
 
@@ -117,6 +118,12 @@ If you want to use your own Discord Application:
 2. Copy your **Application ID** and paste it into `config.json` as `client_id`.
 3. Under **Rich Presence -> Art Assets**, upload your logos and name them (e.g., `large_image`, `small_image`).
 4. Update the names in `config.json`.
+
+## 💖 Support the Project / Поддержать автора
+
+If you enjoy this project and want to support further updates:
+* ☕ **DonationAlerts:** [donationalerts.com/r/fameboyq](https://www.donationalerts.com/r/fameboyq)
+* ✈️ **Telegram:** [@fameboyq](https://t.me/fameboyq)
 
 ---
 
